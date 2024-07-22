@@ -3,7 +3,7 @@
 Sou um aprendiz e desenvolvedor apaixonado, sempre explorando novas tecnologias e melhorando minhas habilidades.
 
 ![Estatísticas do GitHub de Wellington](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniDevMendes&theme=dark)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDevMendes&layout=compact&langs_count=10&theme=dark&hide_border=true)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDevMendes&layout=compact&langs_count=10&theme=dark&hide_border=true))
 
 ## 🌱 Atualmente estou aprendendo:
 
