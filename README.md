@@ -2,14 +2,11 @@
 
 Sou um aprendiz e desenvolvedor apaixonado, sempre explorando novas tecnologias e melhorando minhas habilidades.
 
-![Estatísticas do GitHub de Wellington](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniDevMendes&theme=dark)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDevMendes&layout=compact&langs_count=10&theme=dark&hide_border=true)
-
 ## 🌱 Atualmente estou aprendendo:
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="70" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java">
 </div>
 
 ## 📫 Entre em contato comigo:
