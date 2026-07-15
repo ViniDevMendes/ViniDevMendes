@@ -1,6 +1,6 @@
 # Olá, eu sou Wellington Vinícius! 👋
 
-Sou um aprendiz e desenvolvedor apaixonado, sempre explorando novas tecnologias e melhorando minhas habilidades.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades por meio de projetos e estudos contínuos.
 
 ## 🌱 Atualmente estou aprendendo:
 
