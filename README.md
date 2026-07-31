@@ -1,7 +1,8 @@
 # Hello, World! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho na área de suporte técnico.
-Neste GitHub compartilho minha evolução rumo ao desenvolvimento Backend por meio de exercícios, projetos e aplicações desenvolvidas ao longo dos estudos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Analista de Suporte N1.
+
+Utilizo este GitHub para documentar minha evolução rumo ao desenvolvimento Backend, reunindo exercícios, projetos e aplicações desenvolvidas durante os estudos.
 
 ## 🌱 Atualmente estou aprendendo:
 
