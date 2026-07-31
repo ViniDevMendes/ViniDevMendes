@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Aqui compartilho minha evolução em Java, desde exercícios básicos até projetos desenvolvidos durante os estudos.]
+Sou estudante de Análise e Desenvolvimento de Sistemas. Aqui compartilho minha evolução em Java, desde exercícios básicos até projetos desenvolvidos durante os estudos.
 
 ## 🌱 Atualmente estou aprendendo:
 
