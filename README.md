@@ -1,6 +1,7 @@
 # Hello, World! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Aqui compartilho minha evolução em Java, desde exercícios básicos até projetos desenvolvidos durante os estudos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho na área de suporte técnico.
+Neste GitHub compartilho minha evolução rumo ao desenvolvimento Backend por meio de exercícios, projetos e aplicações desenvolvidas ao longo dos estudos.
 
 ## 🌱 Atualmente estou aprendendo:
 
